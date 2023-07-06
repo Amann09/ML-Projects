@@ -1,5 +1,6 @@
 # ML-Projects
-## Fundamental Machine Learning Projects
+
+**Fundamental Machine Learning Projects**
 
 Rock vs Mine Prediction:
   A Logistic Regression Model which classify between Rock and Mine Underwater using sonar data.
