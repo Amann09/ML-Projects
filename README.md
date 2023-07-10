@@ -2,7 +2,7 @@
 
 **Fundamental Machine Learning Projects**
 
-**Rock vs Mine Prediction:**
+#**Rock vs Mine Prediction:**#
   A Logistic Regression Model which classify between Rock and Mine Underwater using sonar data.
 
 **Diabetes Prediction:**
