@@ -1,6 +1,6 @@
 # ML-Projects
 
-## **Fundamental Machine Learning Projects**
+### **Fundamental Machine Learning Projects**
 
 **Rock vs Mine Prediction:**
 
